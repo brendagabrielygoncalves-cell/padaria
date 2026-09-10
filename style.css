@@ -18,8 +18,8 @@ body {
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #2d2c31;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #717172;
+    background-color: #777;  /* âmbar escuro — texto branco tem contraste AA */
+    color: #2d2c31;
     text-align: center;
     padding: 24px 16px;
 }
